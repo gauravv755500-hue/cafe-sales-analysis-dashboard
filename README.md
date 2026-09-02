@@ -115,6 +115,8 @@ Based on the dashboard insights, the following actions can be considered:
 7. Develop targeted promotions for lower-performing products.
 8. Monitor product category contribution to maximize revenue.
 
+## Projects Images
+https://github.com/gauravv755500-hue/cafe-sales-analysis-dashboard/blob/main/cafesale.pdf
 
 ## 📂 Project Structure
 coffee-shop-sales-analysis-powerbi/
