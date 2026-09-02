@@ -117,26 +117,23 @@ Based on the dashboard insights, the following actions can be considered:
 
 
 ## 📂 Project Structure
-
-```text
 coffee-shop-sales-analysis-powerbi/
 │
 ├── README.md
-│
-├── PowerBI/
-│   └── Coffee_Shop_Sales_Analysis.pbix
-│
-├── Dataset/
-│   └── coffee_shop_sales_data.xlsx
-│
-├── Dashboard/
-│   ├── Executive_Dashboard.png
-│   ├── Product_Performance.png
-│   ├── Store_Performance.png
-│   └── Time_Analysis_Performance.png
-│
-└── Screenshots/
-    └── Dashboard_Overview.png
+
+├── Cafe_sales_page1.png
+
+├── Cafe_sales_page2.png
+
+├── Cafe_sales_page3.png
+
+├── Cafe_sales_page4.png
+
+├── cafesale.pdf
+
+├── customers.xlsx
+
+├── finance_transactions.xlsx
 
 🔍 Skills Demonstrated
 
